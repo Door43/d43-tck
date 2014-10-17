@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tck:home|Door43 (tck)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tck|d43-tck repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tck/archive/master.zip|d43-tck.zip]]
+
+**Recent Changes**
+{{changes>ns = tck}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tck|Ethnologue data]]
+
